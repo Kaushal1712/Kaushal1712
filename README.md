@@ -36,9 +36,14 @@ AI | Machine Learning | Data Science | Agentic AI Enthusiast
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=sql" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://skillicons.dev/icons?i=typescript" />
 <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
+
+
+one is not visible 
 
 ---
 
