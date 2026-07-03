@@ -155,6 +155,8 @@ A personal finance management application that delivers **AI-powered financial i
 
 </p>
 
+---
+
 # 🤝 Connect With Me
 
 <p align="center">
