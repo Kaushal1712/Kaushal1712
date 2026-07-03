@@ -171,7 +171,7 @@ A smart finance management application that combines expense tracking with AI-ge
 
 # 📈 Contribution Graph
 
-[![Kaushal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Kaushal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaushal1712&theme=tokyo-night)](https://github.com/Kaushal1712)
 
 ---
 
@@ -191,10 +191,4 @@ A smart finance management application that combines expense tracking with AI-ge
 
 ---
 
-<p align="center">
 
-⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</p>
