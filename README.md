@@ -92,19 +92,16 @@
 
 # 🏆 Featured Projects
 
-<table>
-<tr>
+---
 
-<td width="50%">
-
-### 🤖 RAG-Based AI Teaching Assistant
+## 🤖 RAG-Based AI Teaching Assistant
 
 An intelligent educational assistant built using **Retrieval-Augmented Generation (RAG)** that answers user queries from educational video content.
 
-#### 🚀 Features
-- 📹 Video transcript processing
-- 🔍 Semantic search with embeddings
-- 🤖 Context-aware AI responses
+### 🚀 Features
+- 📹 Video Transcript Processing
+- 🔍 Semantic Search using Vector Embeddings
+- 🤖 Context-Aware AI Responses
 - 🧠 Prompt Engineering
 - 📚 Retrieval-Augmented Generation (RAG)
 
@@ -115,35 +112,52 @@ An intelligent educational assistant built using **Retrieval-Augmented Generatio
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
-</td>
+---
 
-<td width="50%">
+## 🍽️ Smart Canteen Pre-Order & Crowd Prediction
 
-### 💰 AI-Powered Finance Tracker
+An AI-powered smart canteen solution designed to streamline campus dining through online food pre-ordering and machine learning-based crowd prediction.
 
-A smart finance management application that combines expense tracking with AI-generated financial insights.
-
-#### 🚀 Features
-- 📊 Expense Analytics
-- 💸 Budget Management
-- 🤖 AI Financial Insights
-- 📈 Interactive Dashboards
-- 💡 Personalized Recommendations
+### 🚀 Features
+- 🍱 Online Food Pre-Ordering
+- ⏰ Pickup Slot Scheduling
+- 👥 Machine Learning-Based Crowd Prediction
+- 📊 Peak Hour Demand Analysis
+- 📈 Smart Canteen Analytics
+- 🎯 Reduced Queue Waiting Time
 
 **Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+
+---
+
+## 💰 AI-Powered Personal Finance Tracker
+
+A smart finance management application that helps users track income, expenses, and budgets while providing AI-generated financial insights.
+
+### 🚀 Features
+- 💸 Income & Expense Tracking
+- 📊 Budget Management
+- 🤖 AI Financial Insights
+- 📈 Expense Analytics
+- 💡 Personalized Spending Recommendations
+- 📉 Interactive Dashboards
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
 
-</td>
+---
 
-</tr>
-</table>
-
-> 🚀 More AI, Machine Learning, and Data Science projects coming soon...
+> 🚀 More AI, Machine Learning, and Agentic AI projects coming soon...
 
 ---
 
@@ -151,9 +165,9 @@ A smart finance management application that combines expense tracking with AI-ge
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaushal1712&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal1712&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -163,15 +177,9 @@ A smart finance management application that combines expense tracking with AI-ge
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Kaushal1712&theme=tokyonight"/>
 
 </p>
-
----
-
-# 📈 Contribution Graph
-
-[![Kaushal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaushal1712&theme=tokyo-night)](https://github.com/Kaushal1712)
 
 ---
 
