@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kaushal Pokarne</h1>
+
 <h3 align="center">AI | Machine Learning | Data Science | Agentic AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Machine+Learning+Enthusiast;Data+Science+Learner;Exploring+Agentic+AI;Always+Learning+Something+New!" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kaushal1712">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/Kaushal1712">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
@@ -29,7 +41,7 @@
 - 📈 Data Analysis
 - 📝 LLM Applications
 - 🔍 AI Automation
-- 💻 Solving Data Structures & Algorithms (DSA) in C++
+- 💻 Data Structures & Algorithms (DSA) in C++
 
 ---
 
@@ -54,7 +66,9 @@
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=sql" />
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,supabase" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
 ---
@@ -77,7 +91,6 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_AI-6A0DAD?style=for-the-badge" />
 </p>
 
 ---
@@ -159,15 +172,6 @@ A smart finance management application that helps users track income, expenses, 
 ---
 
 > 🚀 More AI, Machine Learning, and Agentic AI projects coming soon...
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaushal1712&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal1712&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
