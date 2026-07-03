@@ -3,71 +3,56 @@
 <h3 align="center">AI | Machine Learning | Data Science | Agentic AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Machine+Learning+Enthusiast;Data+Science+Learner;Exploring+Agentic+AI;Always+Learning+Something+New!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Data+Science+Learner;Building+Intelligent+AI+Applications;Exploring+Agentic+AI;Always+Learning+Something+New!" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Kaushal1712">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/Kaushal1712">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Computer Engineering Student
+🎓 Computer Engineering Student passionate about **Artificial Intelligence, Machine Learning, and Data Science**.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science.
+🚀 Currently building AI-powered applications using **Agentic AI, Large Language Models (LLMs), and Machine Learning** while strengthening my problem-solving skills through **Data Structures & Algorithms (C++)**.
 
-🚀 Currently exploring Agentic AI, Large Language Models (LLMs), AI Agents, and intelligent automation.
-
-📚 I enjoy learning by building AI projects, experimenting with modern technologies, and strengthening my problem-solving skills through Data Structures & Algorithms (DSA).
-
-💡 My goal is to build intelligent AI solutions that solve real-world problems while continuously improving as a software engineer.
+💡 My goal is to build intelligent AI solutions that solve real-world problems through continuous learning and hands-on projects.
 
 ---
 
 # 🚀 Current Focus
 
-- 🤖 Agentic AI
-- 🧠 Machine Learning
-- 📊 Data Science
-- 📈 Data Analysis
-- 📝 LLM Applications
-- 🔍 AI Automation
-- 💻 Data Structures & Algorithms (DSA) in C++
-
----
-
-# 🌱 Currently Learning
-
-- Agentic AI
-- LangChain
-- OpenAI API
-- Ollama
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- Machine Learning Algorithms
-- Deep Learning
+* 🤖 Agentic AI & LLM Applications
+* 🧠 Machine Learning & Data Science
+* 📊 Retrieval-Augmented Generation (RAG)
+* 💻 Data Structures & Algorithms (C++)
 
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=sql" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
 <img src="https://skillicons.dev/icons?i=typescript" />
+</p>
+
+---
+
+### 🌐 Frameworks & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs" />
 <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
@@ -106,72 +91,64 @@
 
 # 🏆 Featured Projects
 
----
-
 ## 🤖 RAG-Based AI Teaching Assistant
 
-An intelligent educational assistant built using **Retrieval-Augmented Generation (RAG)** that answers user queries from educational video content.
+An intelligent educational assistant built using **Retrieval-Augmented Generation (RAG)** to answer questions from educational video content.
 
-### 🚀 Features
-- 📹 Video Transcript Processing
-- 🔍 Semantic Search using Vector Embeddings
-- 🤖 Context-Aware AI Responses
-- 🧠 Prompt Engineering
-- 📚 Retrieval-Augmented Generation (RAG)
+**Highlights**
+
+* 🔍 Semantic Search using Vector Embeddings
+* 🤖 Context-Aware AI Responses
+* 🧠 Prompt Engineering
+* 📚 Retrieval-Augmented Generation (RAG)
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
 ---
 
 ## 🍽️ Smart Canteen Pre-Order & Crowd Prediction
 
-An intelligent campus canteen platform that combines online food pre-ordering with machine learning-based crowd prediction to reduce waiting times and improve the overall dining experience.
+An intelligent campus canteen platform that combines online food pre-ordering with machine learning-based crowd prediction.
 
-### 🚀 Features
-- 🍱 Online Food Pre-Ordering
-- ⏰ Pickup Slot Scheduling
-- 👥 Machine Learning-Based Crowd Prediction
-- 📊 Peak Hour Demand Analysis
-- 📈 Smart Canteen Analytics
-- 🎯 Reduced Queue Waiting Time
+**Highlights**
+
+* 🍱 Online Food Pre-Ordering
+* 👥 Machine Learning-Based Crowd Prediction
+* 📊 Peak Hour Demand Analysis
+* 📈 Smart Canteen Analytics
 
 **Tech Stack**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square)
 
 ---
 
 ## 💰 AI-Powered Personal Finance Tracker
 
-A smart finance management application that helps users track income, expenses, and budgets while providing AI-generated financial insights.
+A finance management application that provides AI-powered financial insights and analytics.
 
-### 🚀 Features
-- 💸 Income & Expense Tracking
-- 📊 Budget Management
-- 🤖 AI Financial Insights
-- 📈 Expense Analytics
-- 💡 Personalized Spending Recommendations
-- 📉 Interactive Dashboards
+**Highlights**
+
+* 💸 Expense & Budget Tracking
+* 🤖 AI Financial Insights
+* 📈 Interactive Analytics Dashboard
+* 💡 Personalized Recommendations
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
-
----
-
-> 🚀 More AI, Machine Learning, and Agentic AI projects coming soon...
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai)
 
 ---
 
@@ -185,18 +162,13 @@ A smart finance management application that helps users track income, expenses, 
 
 # 🎯 Goals
 
-- 🚀 Build impactful AI applications
-- 🧠 Master Machine Learning & Deep Learning
-- 🤖 Develop advanced Agentic AI systems
-- 🌍 Contribute to open-source AI projects
-- 📚 Continuously learn and explore emerging AI technologies
+* 🚀 Build production-ready AI applications
+* 🤖 Master Machine Learning & Agentic AI
+* 💻 Solve 500+ DSA problems
+* 🌍 Contribute to Open Source
 
 ---
 
 # 💡 Quote
 
 > **"Learn. Build. Experiment. Repeat."** 🚀
-
----
-
-
