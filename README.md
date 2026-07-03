@@ -169,13 +169,6 @@ A personal finance management application that delivers **AI-powered financial i
 
 </p>
 
-# 🎯 Goals
-
-- 🚀 Build production-ready AI applications
-- 🤖 Master Machine Learning & Agentic AI
-- 💻 Strengthen Data Structures & Algorithms (DSA)
-- 🌍 Contribute to Open Source
-
 ---
 
 # 💡 Quote
