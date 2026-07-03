@@ -36,7 +36,7 @@ AI | Machine Learning | Data Science | Agentic AI Enthusiast
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=sql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=nextjs" />
 <img src="https://skillicons.dev/icons?i=typescript" />
 <img src="https://skillicons.dev/icons?i=supabase" />
