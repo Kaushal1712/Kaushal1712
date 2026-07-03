@@ -133,6 +133,28 @@ A personal finance management application that delivers **AI-powered financial i
 
 ---
 
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://takeuforward.org/plus/profile/Kaushal1712">
+<img src="https://img.shields.io/badge/TUF%2B-FF6B00?style=for-the-badge"/>
+</a>
+
+<a href="https://codeforces.com/profile/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
 # 🎯 Goals
 
 - 🚀 Build production-ready AI applications
