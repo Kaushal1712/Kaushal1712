@@ -15,9 +15,9 @@
 
 🚀 Currently exploring Agentic AI, Large Language Models (LLMs), AI Agents, and intelligent automation.
 
-📚 I enjoy learning by building projects and experimenting with modern AI technologies.
+📚 I enjoy learning by building AI projects, experimenting with modern technologies, and strengthening my problem-solving skills through Data Structures & Algorithms (DSA).
 
-💡 My goal is to develop AI solutions that solve real-world problems.
+💡 My goal is to build intelligent AI solutions that solve real-world problems while continuously improving as a software engineer.
 
 ---
 
@@ -29,7 +29,7 @@
 - 📈 Data Analysis
 - 📝 LLM Applications
 - 🔍 AI Automation
-- 📚 Deep Learning Fundamentals
+- 💻 Solving Data Structures & Algorithms (DSA) in C++
 
 ---
 
@@ -54,6 +54,7 @@
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=sql" />
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,supabase" />
 </p>
 
 ---
@@ -116,7 +117,7 @@ An intelligent educational assistant built using **Retrieval-Augmented Generatio
 
 ## 🍽️ Smart Canteen Pre-Order & Crowd Prediction
 
-An AI-powered smart canteen solution designed to streamline campus dining through online food pre-ordering and machine learning-based crowd prediction.
+An intelligent campus canteen platform that combines online food pre-ordering with machine learning-based crowd prediction to reduce waiting times and improve the overall dining experience.
 
 ### 🚀 Features
 - 🍱 Online Food Pre-Ordering
@@ -128,11 +129,11 @@ An AI-powered smart canteen solution designed to streamline campus dining throug
 
 **Tech Stack**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
 
 ---
 
@@ -164,11 +165,8 @@ A smart finance management application that helps users track income, expenses, 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaushal1712&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal1712&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaushal1712&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal1712&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -176,9 +174,7 @@ A smart finance management application that helps users track income, expenses, 
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kaushal1712&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Kaushal1712&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
