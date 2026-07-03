@@ -137,7 +137,7 @@ A personal finance management application that delivers **AI-powered financial i
 
 <p align="center">
 
-<a href="https://takeuforward.org/plus/profile/Kaushal1712">
+<a href="takeuforward.org/profile/Kaushal1712">
 <img src="https://img.shields.io/badge/TUF%2B-FF6B00?style=for-the-badge"/>
 </a>
 
